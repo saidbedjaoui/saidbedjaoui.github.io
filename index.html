@@ -33,8 +33,7 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.D_phITJD.js"),
-						import("/_app/immutable/entry/app.HqknGUlr.js")
+						
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
