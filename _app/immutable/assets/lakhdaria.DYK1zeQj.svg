@@ -17,8 +17,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
    id="namedview54202"
-   pagecolor="#202d3d"
-   bordercolor="#202d3d"
+   pagecolor="#797b82"
+   bordercolor="#797b82"
    borderopacity="0.25"
    inkscape:showpageshadow="2"
    inkscape:pageopacity="0.0"
@@ -37854,10 +37854,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52268" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 0 0 10"
    id="path52270" />
 		</pattern>
@@ -37870,10 +37870,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52273" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 0 0 10"
    id="path52275" />
 		</pattern>
@@ -37886,10 +37886,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52278" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 0 0 10"
    id="path52280" />
 		</pattern>
@@ -37902,10 +37902,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52283" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 0 0 10"
    id="path52285" />
 		</pattern>
@@ -37918,10 +37918,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52288" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 0 0 10"
    id="path52290" />
 		</pattern>
@@ -37934,10 +37934,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52293" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 10 10 0"
    id="path52295" />
 		</pattern>
@@ -37950,10 +37950,10 @@ Time: 01/26/2026 16:05:01
 			<rect
    width="10"
    height="10"
-   style="fill:#202d3d;stroke:none"
+   style="fill:#797b82;stroke:none"
    id="rect52298" />
 			<path
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    d="M0 0 0 10"
    id="path52300" />
 		</pattern>
@@ -38699,7 +38699,7 @@ Time: 01/26/2026 16:05:01
 	</g>
 	<g
    id="Polygons"
-   style="stroke-linejoin:round;stroke:#202d3d"
+   style="stroke-linejoin:round;stroke:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="Polygons">
 		<g
@@ -38718,7 +38718,7 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use kindergarten (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4978.19 1191.71 l-1.61 2.94 -0.56 -0.31 0.5 -0.92 -2.26 -1.23 -1.72 3.15 3.45 1.88 -0.61 1.12 -0.93 -0.51 -1.42 2.6 1.59 0.87 -0.3 0.54 1.54 0.84 0.47 -0.86 -0.77 -0.42 1.51 -2.77 1.3 0.71 -0.5 0.91 1.74 0.95 1.53 -2.8 -1.88 -1.02 0.45 -0.82 -0.76 -0.41 0.47 -0.85 0.99 0.54 1.22 -2.24 -3.45 -1.89 Z"
    id="path52711" />
 		</g>
@@ -38728,7 +38728,7 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use retail (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6712.36 1943.09 l0.44 -0.23 0.16 -0.42 0.28 -0.7 -0.07 -1.02 -0.42 -1.23 -1.56 -1.49 -1.09 -0.42 -0.56 -0.86 -0.07 -0.93 0.52 -0.75 -0.58 -0.76 0.38 -0.54 -0.75 -0.84 -1.85 0.3 -1.08 1.9 0.13 2.89 0.95 1.46 1.25 0.9 1.51 0.6 0.65 1.25 1.76 0.88 Z"
    id="path52714" />
 		</g>
@@ -38738,7 +38738,7 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use public (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4872.76 1215.37 l-4.84 7.23 9 6.03 0.22 -0.3 1.56 1.22 1.56 -2.04 -0.41 -0.31 4.23 -6.19 -1.53 -1.03 -0.13 -1.02 -1.04 0.24 -0.66 -0.44 0.65 -1.03 -3.21 -2.15 -0.67 1.02 -0.68 -0.45 -0.1 -0.95 -0.95 0.25 -1.24 -0.83 -0.9 1.34 -0.87 -0.58 Z"
    id="path52717" />
 		</g>
@@ -38748,35 +38748,35 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use industrial (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6094.2 1627.33 l-72.05 -9.83 -2.14 15.66 72.04 9.83 2.14 -15.66 Z"
    id="path52720" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6142.4 1634.54 l-33.98 -4.83 -0.55 3.9 -4.18 -0.59 -1.73 12.19 38.16 5.42 2.29 -16.1 Z"
    id="path52722" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6062.73 1600.64 l0.82 -4.3 8.03 1.53 -0.82 4.3 -8.03 -1.53 Z"
    id="path52724" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6061.25 1609.02 l0.85 -4.55 7.41 1.38 -0.85 4.55 -7.41 -1.38 Z"
    id="path52726" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6070.71 1610.69 l0.75 -4.54 9.19 1.52 -0.75 4.54 -9.19 -1.52 Z"
    id="path52728" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6086.75 1611.99 l1.06 -5.62 -3.51 -0.66 0.42 -2.24 1.98 0.37 0.58 -3.09 6.27 1.18 -2.06 10.95 -4.74 -0.89 Z"
    id="path52730" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6072.44 1603.84 l1.12 -6.07 9.17 1.69 -1.12 6.07 -9.17 -1.69 Z"
    id="path52732" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4559.79 869.79 l6.42 -1.8 0.22 0.79 2.19 -0.62 -0.24 -0.87 6.28 -1.76 0.25 0.9 18.5 -5.19 3.12 11.13 -33.4 9.37 -3.35 -11.95 Z"
    id="path52734" />
 		</g>
@@ -38786,7 +38786,7 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use barn (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6667.85 1934.26 l-1.69 2.12 6.64 5.18 2.12 -2.4 -7.07 -4.9 Z"
    id="path52737" />
 		</g>
@@ -38796,299 +38796,299 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use residential (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5034.15 1295.43 l-6.36 -4.8 -1.61 2.14 0.38 0.29 -3.63 4.82 1.52 1.14 3.61 -4.79 0.37 -0.49 4.46 3.37 1.26 -1.67 Z"
    id="path52740" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5042.3 1262.04 l-5.31 7.78 2.48 1.69 5.31 -7.78 -2.48 -1.69 Z"
    id="path52742" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5021.25 1252.13 l-1.03 2.57 -8.38 -3.35 1.03 -2.57 8.38 3.34 Z"
    id="path52744" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5008.4 1248.44 l0.57 3.19 -13.6 2.41 -0.57 -3.19 13.6 -2.41 Z"
    id="path52746" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4963.67 1249.38 l-7.6 1.22 -0.54 -3.36 7.6 -1.22 0.54 3.36 Z"
    id="path52748" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5089.91 1421.87 l2.07 -1.67 0.39 0.48 0.93 -0.75 0.63 0.78 0.77 -0.61 1.38 1.72 -1.84 1.48 0.37 0.46 -1.93 1.55 -2.76 -3.44 Z"
    id="path52750" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5103.5 1422.16 l-4.86 8.61 3.65 2.06 4.86 -8.61 -3.65 -2.06 Z"
    id="path52752" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5112.87 1412.77 l-2.4 -1.33 -4.19 7.61 2.4 1.32 4.19 -7.61 Z"
    id="path52754" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5122.51 1405.69 l-2.4 -1.33 -4.19 7.61 2.4 1.32 4.19 -7.61 Z"
    id="path52756" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5021.66 1258.59 l-1.78 4.55 1.84 0.72 -0.41 1.06 1.5 0.58 0.39 -0.99 1.63 0.64 0.37 -0.94 0.65 0.25 1.42 -3.64 -2.02 -0.79 -0.27 0.7 -1.28 -0.5 0.08 -0.82 -2.1 -0.82 Z"
    id="path52758" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5004.38 1243.45 l-22.16 3.99 -0.59 -3.26 22.16 -3.99 0.59 3.26 Z"
    id="path52760" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4804.98 1244.17 l1.64 2.08 12.84 -10.11 -1.64 -2.08 -12.84 10.11 Z"
    id="path52762" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4788.98 1255.89 l1.62 2.1 12.95 -9.97 -1.62 -2.1 -12.95 9.97 Z"
    id="path52764" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4824.79 1250.73 l-2.21 -1.5 -9.11 13.41 2.21 1.5 9.11 -13.41 Z"
    id="path52766" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4811.55 1251.09 l-1.56 -2.13 8.59 -6.3 1.56 2.13 -8.59 6.3 Z"
    id="path52768" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4810.22 1252.1 l-1.54 -2.03 -4.17 3.17 1.54 2.03 4.17 -3.17 Z"
    id="path52770" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5206.75 1555.45 l0.55 2.42 0.7 0.42 4.56 -1.09 0.45 -1.01 -2.18 -11.66 -0.5 -0.59 -2.56 0.59 -0.58 -2.55 2.5 -0.57 -0.2 -0.87 1.61 -0.37 0.25 1.11 0.99 -0.23 0.53 0.39 0.17 0.86 1.18 -0.23 0.37 1.88 -0.86 0.17 0.96 4.8 0.85 -0.17 0.33 1.64 -0.93 0.19 1.06 5.33 0.95 -0.19 0.28 1.4 -1.14 0.23 0.34 0.59 v0.73 l-0.28 0.37 -0.94 0.21 -0.48 0.1 0.21 1.04 -1.13 0.23 -0.18 -0.9 -5.36 1.1 0.24 1.17 -1.24 0.26 -0.2 -0.96 -0.9 0.19 -0.45 -0.06 -0.39 -0.39 -0.25 -1.07 -1.02 0.23 -0.28 -1.22 0.95 -0.21 -0.61 -2.67 2.63 -0.6 Z"
    id="path52772" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5206.79 1571.19 l-2.78 0.67 -0.17 0.78 1.29 5.04 0.7 0.67 11.49 -2.38 0.64 -0.75 -0.9 -4.73 -0.53 -0.56 -2.59 0.55 -0.66 -3.08 2.31 -0.49 -0.24 -1.15 1.79 -0.38 0.24 1.14 0.63 -0.14 0.78 0.34 0.59 1.04 0.88 -0.17 0.35 1.87 -0.83 0.16 0.91 4.87 0.96 -0.18 0.29 1.54 -0.98 0.18 0.21 1.15 -0.22 0.59 -0.39 0.2 -0.68 0.13 0.21 1.09 -1.83 0.36 -0.19 -0.97 -5.37 1.04 0.31 0.71 -1.51 0.66 0.03 -1.03 -5.19 1.11 0.22 1.01 -1.69 0.36 -0.24 -1.13 -0.87 0.19 -0.48 -0.06 -0.31 -0.37 -0.18 -1.03 -1.15 0.2 -0.24 -1.35 0.9 -0.16 -0.97 -5.55 -1.12 0.19 -0.27 -1.55 0.97 -0.17 -0.21 -1.22 0.45 -0.53 0.53 -0.28 0.08 -1.01 1.55 -0.37 0.27 1.13 2.61 -0.63 0.58 2.44 Z"
    id="path52774" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5194.64 1558.22 l0.55 2.27 -0.59 0.73 -5.03 0.81 -0.45 -0.34 -2.97 -11.55 0.48 -0.75 2.53 -0.52 -0.56 -2.74 -2.38 0.49 -0.18 -0.87 -1.54 0.32 0.23 1.1 -1.38 0.29 -0.2 0.67 0.22 0.94 -0.94 0.22 0.35 1.51 0.82 -0.19 1.18 5.09 -0.86 0.2 0.33 1.43 0.96 -0.22 1.24 5.36 -0.98 0.23 0.43 1.84 1.48 -0.35 0.5 0.7 0.42 1.29 1.04 0.28 0.97 -0.23 -0.2 -0.84 5.05 -1.22 0.21 0.87 1.46 -0.35 -0.21 -0.87 1.81 -0.44 -0.41 -1.68 0.86 -0.21 -0.4 -1.66 -1.02 0.25 -0.58 -2.37 -2.22 0.54 Z"
    id="path52776" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5226.73 1360.81 l2.42 -5.81 4.21 1.76 -1.41 3.39 h-0.65 l-0.91 2.18 -3.66 -1.53 Z"
    id="path52778" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5230.68 1342.93 l-2.14 -4.84 2.88 -1.27 2.14 4.84 -2.88 1.27 Z"
    id="path52780" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5220.66 1334.48 l1.34 -4.43 3.71 1.11 -0.28 0.93 3.91 1.17 -0.65 2.16 -1.01 -0.31 -0.41 1.35 -6.6 -1.99 Z"
    id="path52782" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5182.77 1323.79 l1.58 -3.99 8.22 3.25 -1.88 4.75 -3.36 -1.33 0.3 -0.76 -4.86 -1.92 Z"
    id="path52784" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5192.15 1328.39 l1.45 -5.51 8.05 2.11 -1.45 5.51 -8.05 -2.11 Z"
    id="path52786" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5201 1330.66 l1.37 -5.32 8.23 2.12 -1.21 4.71 -3.41 -0.88 -0.16 0.61 -4.83 -1.24 Z"
    id="path52788" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5209.98 1332.39 l1.23 -4.81 3.15 0.8 0.28 -1.1 4.44 1.13 0.86 1.91 -1.1 4.33 -8.85 -2.25 Z"
    id="path52790" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4845.75 1209.6 l0.02 -2.21 6.42 0.06 -0.02 2.2 -6.42 -0.06 Z"
    id="path52792" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5112.57 1428.56 l-0.74 -0.42 2.09 -3.61 -1.24 -0.72 1.81 -3.14 0.76 0.44 0.31 -0.54 -0.74 -0.43 1.94 -3.35 2.94 1.7 -0.31 0.53 0.61 0.35 -1.71 2.95 -0.37 -0.22 -0.27 0.47 0.41 0.23 -1.87 3.23 0.97 0.56 -0.64 1.11 0.27 0.16 -0.83 1.43 -0.41 -0.23 -0.6 1.05 -1.09 -0.63 -0.31 0.55 -1.36 -0.79 0.39 -0.67 Z"
    id="path52794" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4790.29 1290.24 l-1.47 2.29 -0.06 0.57 0.31 0.71 6.83 3.93 1.15 0.28 0.79 -0.23 0.63 -0.56 3.97 -6.83 0.28 -1.35 -0.75 -1.3 -6.52 -3.73 -1.03 1.8 5.58 3.2 0.35 0.83 -0.67 1.05 -0.36 -0.23 -1.87 2.93 0.34 0.22 -0.51 0.8 0.3 0.19 -0.39 0.61 -0.71 0.23 -1.14 -0.65 -0.2 -0.46 -2.31 -1.54 -0.58 0.03 -1.02 -0.65 0.69 -1.08 -1.65 -1.06 Z"
    id="path52796" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4784.91 1306.02 l-1.13 1.74 -2.1 -1.36 -0.25 -1.98 4.78 -7.22 0.54 -0.33 0.86 -0.08 7.01 3.92 0.62 1.28 -0.69 1.14 0.55 0.33 -1.29 2.14 -0.56 -0.33 -1.26 2.1 0.47 0.28 -0.88 1.46 -0.48 -0.28 -1.72 2.86 -1.83 -1.1 1.55 -2.59 -0.5 -0.3 2.31 -3.86 0.39 0.23 0.96 -1.6 -4.68 -2.8 -0.57 0.15 -3.04 4.84 0.02 0.78 0.88 0.57 Z"
    id="path52798" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5171.95 1547.18 l3.01 15.93 -0.32 0.68 -2.6 0.74 0.75 2.63 0.82 -0.23 0.31 1.09 2.77 -0.79 -0.17 -0.61 1.26 -0.35 0.18 -0.83 -0.18 -0.98 1.11 -0.21 -0.34 -1.78 -0.64 0.06 -1.04 -5.15 0.7 -0.13 -0.26 -1.39 -0.69 0.08 -1.06 -5.26 0.71 -0.14 -0.26 -1.53 -1.05 0.2 -0.48 -2.52 -2.51 0.48 Z"
    id="path52800" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5009.45 1411.55 l1.25 -0.86 -0.35 -0.52 2.33 -1.6 0.23 0.34 1.48 -1.02 1.46 2.13 -0.65 0.45 0.29 0.42 -0.58 0.39 -0.22 -0.33 -2.13 1.46 0.25 0.37 -0.86 0.59 -0.21 -0.3 -0.86 0.59 -1.45 -2.12 Z"
    id="path52802" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5004.59 1418.31 l-1.51 -2.21 1.06 -0.73 -0.32 -0.47 4.23 -2.89 0.24 0.35 1.13 -0.77 1.43 2.1 -0.96 0.66 -0.19 -0.28 -0.84 0.57 0.29 0.43 -2.02 1.38 -0.2 -0.3 -1.26 0.86 0.25 0.37 -1.35 0.92 Z"
    id="path52804" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5007.13 1416.51 l2.02 -1.38 0.4 0.59 0.42 -0.29 0.87 1.27 -0.37 0.25 0.52 0.76 -1.97 1.34 -0.49 -0.72 -0.37 0.25 -0.62 -0.91 0.27 -0.19 -0.68 -0.99 Z"
    id="path52806" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4998.44 1430.17 l0.59 -2.14 -0.45 -0.12 0.71 -2.59 0.53 0.15 0.6 -2.2 3.11 0.85 -0.33 1.22 -0.46 -0.12 -0.35 1.3 1.98 0.54 0.08 -0.28 1.02 0.28 -0.09 0.32 0.72 0.2 -0.55 2.01 -0.8 -0.22 -0.11 0.4 -1.6 -0.44 0.11 -0.39 -1.64 -0.45 -0.31 1.14 0.25 0.07 -0.33 1.21 -2.68 -0.73 Z"
    id="path52808" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5003.2 1424 l-2.68 -0.76 0.36 -1.27 -0.32 -0.09 0.77 -2.72 0.45 0.13 0.41 -1.44 2.56 0.72 -0.2 0.71 0.53 0.15 -0.19 0.68 -0.55 -0.15 -0.58 2.07 0.48 0.14 -0.36 1.27 -0.48 -0.14 -0.2 0.71 Z"
    id="path52810" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4981.42 1425.65 l-3.01 -0.82 0.5 -1.87 -0.65 -0.17 0.77 -2.86 0.72 0.2 0.63 -2.35 3.83 1.03 -0.48 1.77 -0.82 -0.22 -0.18 0.66 3.07 0.82 0.14 -0.53 1.7 0.45 0.1 -0.38 2.94 0.78 -0.1 0.38 0.9 0.24 -0.73 2.75 -1.43 -0.38 0.1 -0.36 -2.33 -0.62 -0.21 0.36 -2.05 -0.56 -0.16 0.6 -1.55 -0.42 0.11 -0.4 -1.58 -0.43 -0.26 0.97 0.35 0.09 -0.34 1.26 Z"
    id="path52812" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4986.94 1414.16 l-2.19 -1.9 1.65 -1.91 -0.31 -0.27 1.35 -1.56 0.29 0.25 3.43 -3.95 -0.24 -0.21 1.81 -2.08 0.25 0.22 3.09 -3.55 -0.26 -0.22 1.62 -1.86 0.39 0.34 1.88 -2.14 1.94 1.71 -0.75 0.85 -0.42 -0.37 -1.25 1.42 1.73 1.53 0.41 -0.47 0.99 0.87 -0.29 0.33 0.99 0.88 0.66 -0.75 0.6 0.54 -0.34 0.38 1.42 1.26 0.52 -0.57 1.11 0.99 -0.4 0.45 0.6 0.54 -1.82 2.04 -1.12 -1 -0.37 0.41 -3.6 -3.22 0.39 -0.43 -2.47 -2.21 -0.85 0.95 0.47 0.42 -2.25 2.52 0.23 0.2 0.33 -0.37 1.93 1.7 -0.37 0.41 0.69 0.61 -1.95 2.21 -0.58 -0.5 -0.3 0.34 -1.44 -1.26 0.36 -0.41 -1.14 -1 -0.61 0.7 0.38 0.33 -2.02 2.34 -0.34 -0.3 -0.59 0.69 0.56 0.48 0.22 -0.26 1.75 1.51 -0.3 0.35 0.51 0.44 0.33 -0.38 1.15 0.99 -0.31 0.36 1.64 1.41 0.27 -0.31 0.58 0.5 -0.25 0.29 0.6 0.52 -1.5 1.74 -4.75 -4.09 -0.36 0.42 -0.6 -0.52 0.28 -0.32 -1.76 -1.52 -0.98 1.13 0.47 0.4 -0.79 0.91 Z"
    id="path52814" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5003.11 1396.67 l-0.23 -2.61 1.59 -0.14 -0.03 -0.38 2.68 -0.23 0.03 0.33 3.46 -0.31 -0.03 -0.27 4.7 -0.43 0.03 0.36 2.38 -0.22 -0.03 -0.35 5.08 -0.46 0.03 0.37 1.08 -0.1 0.26 2.86 -1.13 0.1 -0.03 -0.34 -1.36 0.12 0.11 1.26 0.65 -0.06 0.17 1.89 -0.51 0.04 0.09 1.02 -2.3 0.21 -0.1 -1.08 -0.55 0.05 -0.1 -1.08 0.52 -0.05 -0.18 -2.02 -1.43 0.12 0.03 0.39 -2.24 0.2 -0.03 -0.37 -1.53 0.13 0.19 2.21 0.54 -0.05 0.11 1.3 -0.43 0.04 0.08 0.91 -2.56 0.22 -0.07 -0.81 -0.47 0.04 -0.15 -1.73 0.42 -0.03 -0.16 -1.79 -1.04 0.09 0.03 0.3 -1.41 0.12 -0.02 -0.29 -0.87 0.08 0.03 0.32 -1.17 0.1 -0.03 -0.35 -2.41 0.21 0.03 0.39 -0.89 0.08 -0.03 -0.38 -0.83 0.07 Z"
    id="path52816" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5080.37 1307.72 l-0.31 0.46 1.36 0.91 3.15 2.1 2.19 -3.28 -0.39 -0.26 0.18 -0.26 0.61 -0.91 0.62 -0.93 0.41 0.27 1.43 -2.15 -3.23 -2.16 -1.3 -0.87 -0.29 0.43 -0.17 -0.07 -0.08 -0.02 -0.08 0 -0.08 0.02 -0.07 0.03 -0.07 0.06 -0.05 0.07 -0.03 0.08 -0.01 0.08 0 0.07 0.02 0.07 0.06 0.11 -1.35 2 0.73 0.49 -0.66 0.98 -0.72 -0.48 -1.64 2.45 -0.08 -0.01 -0.08 0.01 -0.06 0.02 -0.06 0.03 -0.06 0.05 -0.05 0.07 -0.03 0.07 -0.02 0.07 0 0.07 0.01 0.06 0.03 0.08 0.05 0.07 0.12 0.1 Z"
    id="path52818" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5081.42 1309.08 l0.85 -1.29 1.59 1.07 1.52 -2.27 1.17 0.78 0.61 -0.91 -1.17 -0.79 1.4 -2.09 -1.65 -1.1 0.65 -0.97 -1.3 -0.87 -0.29 0.43 -0.17 -0.07 -0.08 -0.02 -0.08 0 -0.08 0.02 -0.07 0.03 -0.07 0.06 -0.05 0.07 -0.03 0.08 -0.01 0.08 0 0.07 0.02 0.07 0.06 0.11 -1.35 2 0.73 0.49 -0.66 0.98 -0.72 -0.48 -1.64 2.45 -0.08 -0.01 -0.08 0.01 -0.06 0.02 -0.06 0.03 -0.06 0.05 -0.05 0.07 -0.03 0.07 -0.02 0.07 0 0.07 0.01 0.06 0.03 0.08 0.05 0.07 0.12 0.1 -0.31 0.46 1.36 0.91 Z"
    id="path52820" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5058.62 1301.25 l0.96 -1.65 3.19 1.85 -1.48 2.55 -2.25 -1.31 0.52 -0.9 -0.93 -0.54 Z"
    id="path52822" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5005.77 1287.69 l0.68 2.03 0.17 -0.06 0.29 0.86 -0.15 0.05 0.71 2.12 -2.52 0.84 -0.21 -0.63 -0.3 0.1 -0.25 -0.74 0.3 -0.1 -0.8 -2.38 -0.26 0.09 -0.24 -0.72 0.28 -0.09 -0.18 -0.54 2.5 -0.84 Z"
    id="path52824" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5014.15 1279.92 l1.62 -2.18 4.9 3.83 0.19 -0.03 0.18 0.01 0.2 0.06 0.18 0.1 0.39 0.29 0.17 -0.17 2.85 2.23 -0.94 1.2 -0.18 -0.14 -0.5 0.64 0.21 0.16 -0.64 0.82 -0.24 -0.19 -2.4 3.08 0.22 0.17 -0.73 0.94 -0.22 -0.17 -0.87 1.11 0.19 0.15 -0.8 1.03 -0.81 -0.64 0.16 -0.2 -0.89 -0.7 -0.19 0.24 -0.84 -0.65 2.88 -3.69 0.21 0.16 0.99 -1.27 -0.22 -0.17 1.01 -1.29 -6.09 -4.76 Z"
    id="path52826" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5013.68 1272.7 l1.39 -1 0.23 0.32 1.87 -1.33 -0.33 -0.46 0.57 -0.41 1.74 2.44 -1.37 0.98 0.25 0.35 -2.46 1.76 -1.88 -2.63 Z"
    id="path52828" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5017.45 1269.81 l0.73 -0.52 0.5 -0.21 0.4 -0.08 0.39 0.01 0.36 0.09 0.36 0.15 0.43 0.22 1.72 -0.05 -0.01 -0.32 3.26 -0.1 -1.92 3.58 -1.41 -0.03 0.01 -0.53 -2.88 -0.06 -0.27 0.19 -1.67 -2.35 Z"
    id="path52830" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5005.96 1278.93 l1.93 -1.37 0.28 0.39 1.11 -0.79 1.21 1.7 -1.86 1.33 0.1 0.15 -0.69 0.49 -1.33 4.02 0.26 0.08 -0.28 0.86 -0.33 -0.11 -0.58 1.77 -2.4 -0.79 0.54 -1.64 -0.31 -0.1 0.84 -2.54 0.33 0.11 1.17 -3.54 Z"
    id="path52832" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5010.52 1278.84 l-1.22 -1.7 0.45 -0.32 -0.23 -0.33 1.86 -1.31 1.17 -0.01 1.39 1.25 0.36 -0.39 0.86 0.77 -0.22 0.25 0.83 0.7 -1.62 2.17 -2.04 -1.76 -0.56 -0.01 -1.02 0.71 Z"
    id="path52834" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5005.16 1294.23 l2.51 -0.86 1.13 3.31 1.82 1.04 -1.14 1.99 -0.58 -0.33 -0.25 0.44 -0.71 -0.41 0.19 -0.34 -1.54 -0.88 -0.74 -2.16 -0.39 0.13 -0.44 -1.29 0.32 -0.11 -0.19 -0.55 Z"
    id="path52836" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5163.19 1368.64 l-0.15 0.3 0.47 2.23 0.09 0.14 0.15 0.12 0.2 0.01 10.8 -2.27 -0.13 -2.28 -2.64 0.52 -0.08 -0.39 -2.7 0.57 0.05 0.28 -3.67 0.71 -0.05 -0.16 -1.1 0.22 -0.07 -0.25 -1.15 0.24 Z"
    id="path52838" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5174.76 1369.18 l-0.13 -2.28 0.97 -0.06 -0.03 -0.49 2.5 -0.15 0.03 0.46 2.61 -0.15 -0.03 -0.48 1.76 -0.1 0.02 0.39 3.06 -0.18 0.14 2.4 -10.91 0.64 Z"
    id="path52840" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5184.13 1358.59 l2.03 -0.72 1.85 5.26 -2.16 0.76 -0.69 -1.95 -0.33 0.12 -0.42 -1.18 0.46 -0.16 -0.75 -2.13 Z"
    id="path52842" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5185.96 1363.88 l2.06 -0.73 0.92 2.57 -0.49 0.17 0.21 0.58 -0.74 1.04 -0.6 0.04 0.06 0.87 -1.68 0.11 -0.14 -2.4 0.81 -1.15 -0.39 -1.11 Z"
    id="path52844" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5186.96 1348.84 l-1.23 -1.93 0.41 -0.26 -0.24 -0.38 1.47 -0.94 0.1 0.16 2.45 -1.56 0.18 -0.08 h0.21 l0.21 0.04 0.16 0.11 1.23 1.92 0.2 -0.13 0.36 0.56 -1.87 1.2 -0.64 -1 -2.13 1.36 0.17 0.27 -1.03 0.66 Z"
    id="path52846" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5190.34 1347.72 l0.59 1.06 -0.22 0.13 1.97 3.49 0.34 -0.19 0.62 1.09 1.95 -1.1 -0.31 -0.54 0.32 -0.18 -2.31 -4.09 -0.24 0.14 -0.65 -1.1 -2.05 1.31 Z"
    id="path52848" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5193.64 1353.31 l1.95 -1.1 0.42 0.73 0.33 -0.18 2.3 4.24 -0.33 0.18 0.28 0.52 -2.01 1.09 -0.38 -0.7 -0.36 0.19 -2.06 -3.81 0.36 -0.19 -0.51 -0.96 Z"
    id="path52850" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5196.6 1358.78 l0.97 1.99 -0.23 0.11 0.52 1.06 0.29 -0.14 0.61 1.27 0.26 -0.13 0.39 0.81 2.04 -0.99 -2.34 -4.83 -0.31 0.15 -0.21 -0.39 -2 1.09 Z"
    id="path52852" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5189.84 1359.67 l2.32 -1 0.47 1.11 0.32 -0.14 1.58 3.67 -0.48 0.21 0.45 1.04 -2.15 0.92 -0.21 -0.5 -0.42 0.18 -1.68 -3.91 0.4 -0.17 -0.6 -1.41 Z"
    id="path52854" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5194.08 1364.76 l-1.72 0.74 0.89 2.11 0.8 -0.02 0.02 0.64 2.34 -0.06 -0.01 -0.3 0.95 -0.02 0.01 0.35 0.8 -0.02 -0.06 -2.36 -0.66 0.01 -0.01 -0.36 -3 0.08 -0.34 -0.78 Z"
    id="path52856" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5198.11 1365.81 l0.06 2.36 3.6 -0.23 0.93 -1.71 -0.91 -2.25 0.16 -0.15 -0.49 -1.04 -2.27 1.1 0.39 0.88 -0.51 1.01 -0.96 0.03 Z"
    id="path52858" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5174.8 1331.42 l1.88 -1.71 0.3 0.32 0.64 -0.58 0.42 0.46 0.34 -0.3 2.5 2.75 -0.39 0.35 1.09 1.2 0.31 -0.28 2.5 2.77 -0.32 0.29 0.48 0.54 -0.98 0.89 0.73 0.81 0.69 -0.63 0.33 0.36 0.45 -0.41 2.51 2.79 -0.26 0.23 0.51 0.57 -2.59 2.33 -0.87 -0.96 -0.2 0.17 -2.34 -2.59 0.29 -0.26 -0.79 -0.86 -0.31 0.28 -2.81 -3.1 0.26 -0.23 -1.37 -1.51 -0.21 0.2 -2.3 -2.53 0.42 -0.38 -0.88 -0.97 Z"
    id="path52860" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5154.25 1315.5 l-0.66 2.31 5.01 1.43 0.79 -2.2 -1.16 -0.35 0.14 -0.48 -2.86 -0.82 -0.13 0.44 -1.13 -0.32 Z"
    id="path52862" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5158.62 1319.25 l0.79 -2.2 0.85 0.39 0.18 -0.38 2.72 1.3 -0.22 0.46 0.99 0.48 -1.13 1.98 -4.19 -2.03 Z"
    id="path52864" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5162.83 1321.28 l1.12 -1.97 0.86 0.55 0.22 -0.34 2.58 1.69 -0.22 0.33 0.92 0.61 -1.31 1.86 -4.17 -2.74 Z"
    id="path52866" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5167.03 1324.01 l1.29 -1.86 0.84 0.61 0.31 -0.42 2.5 1.82 -0.36 0.5 0.96 0.69 -1.27 1.75 -4.26 -3.1 Z"
    id="path52868" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5171.3 1327.12 l1.27 -1.75 0.83 0.63 0.25 -0.29 2.32 1.96 -0.26 0.3 0.92 0.77 -1.41 1.68 -3.91 -3.3 Z"
    id="path52870" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5158.79 1321.5 l0.63 -1.24 0.38 0.19 0.14 -0.28 0.22 0.12 0.29 -0.57 1.17 0.6 -0.23 0.44 0.29 0.15 -0.27 0.53 0.86 0.44 -0.49 0.95 -0.3 -0.15 -0.08 0.15 -2.63 -1.35 Z"
    id="path52872" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5162.57 1323.89 l0.64 -1.04 0.42 0.26 0.32 -0.52 0.22 0.14 0.75 -1.21 0.8 0.49 -0.6 0.97 0.23 0.14 -0.25 0.39 0.21 0.13 -0.2 0.32 0.67 0.41 -0.67 1.08 -2.55 -1.57 Z"
    id="path52874" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5169.2 1328.33 l-2.6 -1.82 0.73 -1.05 0.61 0.43 0.39 -0.56 0.28 0.2 0.62 -0.88 0.77 0.54 -0.66 0.95 0.12 0.08 -0.15 0.21 0.2 0.14 -0.3 0.43 0.61 0.43 -0.63 0.9 Z"
    id="path52876" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5173.07 1331.5 l-2.22 -1.88 0.8 -0.95 0.23 0.19 0.13 -0.16 0.19 0.16 0.24 -0.28 0.19 0.16 0.71 -0.84 0.64 0.55 -0.71 0.84 0.26 0.22 -0.24 0.28 0.22 0.19 -0.29 0.35 0.49 0.42 -0.65 0.76 Z"
    id="path52878" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5074.22 1070.71 l-6.31 0.52 -1.45 5.06 2.2 0.06 0.4 -1.43 1.2 -0.12 -0.59 1.42 3.4 0.19 1.38 -4.72 -0.23 -0.99 Z"
    id="path52880" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M5066.23 1071.96 l-6.02 0.19 -1.2 1.05 -0.86 3.44 3.92 0.21 0.17 -0.9 3.23 0.06 0.75 -4.05 Z"
    id="path52882" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6048.88 1571.93 l-0.58 1.56 -1.01 -0.37 -0.74 2.01 17.92 6.63 0.85 -2.3 -1.21 -0.45 0.49 -1.32 -2.07 -0.77 -0.51 1.38 -11.56 -4.28 0.49 -1.32 -2.07 -0.77 Z"
    id="path52884" />
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M6802.55 1927.85 l-0.23 0.46 0.76 0.38 -1.1 2.23 -0.56 -0.28 -0.62 1.26 0.39 0.19 -1.15 2.36 -1.19 -0.58 -1.15 2.38 1.02 0.49 -1.03 2.11 -0.83 -0.41 -1.78 0.32 -0.58 1.08 -2.15 -1.15 0.46 -0.86 -2.01 -1.07 -0.46 0.86 -2.04 -1.09 0.36 -0.68 -1.8 -0.96 -0.3 0.57 -1.85 -0.99 0.44 -0.84 -2.34 -1.24 -0.42 0.79 -2.02 -1.07 0.56 -1.05 -0.39 -1.4 -1.08 -0.61 1.24 -2.17 0.76 0.44 1.31 -2.29 -0.72 -0.41 0.93 -1.63 0.5 0.29 1.28 -2.23 -0.59 -0.34 0.77 -1.34 0.66 0.38 0.35 -0.61 2.4 1.38 -0.18 0.32 1.11 0.64 -0.9 1.57 -0.44 -0.25 -1.03 1.78 0.43 0.25 -1.17 2.02 -0.77 -0.44 -0.21 0.36 -0.21 -0.12 -1.38 2.4 0.26 0.62 2.13 1.17 0.14 -0.26 0.49 0.27 0.48 -0.87 1.98 1.08 -0.18 0.32 0.48 0.26 -0.55 1.01 0.64 0.35 0.43 -0.79 0.83 0.46 0.32 -0.59 1.48 0.81 -0.39 0.71 0.11 0.49 2.43 1.29 0.54 -0.07 1.2 -2.34 -0.23 -0.12 0.23 -0.44 -0.89 -0.45 1.07 -2.11 0.61 0.31 0.8 -1.58 -0.51 -0.26 0.98 -1.95 0.9 0.45 0.21 -0.42 2.94 1.47 Z"
    id="path52886" />
 		</g>
@@ -39098,7 +39098,7 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use roof (fill)">
 			<path
-   style="stroke:#202d3d"
+   style="stroke:#797b82"
    d="M4559.46 1118.27 l4.55 2.83 2.02 -2.88 -4.55 -2.83 -2.02 2.89 Z"
    id="path52889" />
 		</g>
@@ -39116,37 +39116,37 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#1"
    id="use52893"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="railway_rail_tunnel"
-   style="stroke:#202d3d;stroke-width:3"
+   style="stroke:#797b82;stroke-width:3"
    inkscape:groupmode="layer"
    inkscape:label="railway rail tunnel">
 			<use
    xlink:href="#2"
    id="use52896"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="railway_rail_tunnel1"
-   style="stroke-dasharray:18,18;stroke:#202d3d;stroke-width:3"
+   style="stroke-dasharray:18,18;stroke:#797b82;stroke-width:3"
    inkscape:groupmode="layer"
    inkscape:label="railway rail tunnel">
 			<use
    xlink:href="#3"
    id="use52899"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="railway_rail_tunnel11"
-   style="stroke-dasharray:3,3;stroke:#202d3d;stroke-width:3"
+   style="stroke-dasharray:3,3;stroke:#797b82;stroke-width:3"
    inkscape:groupmode="layer"
    inkscape:label="railway rail tunnel">
 			<use
    xlink:href="#4"
    id="use52902"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_main"
@@ -39156,7 +39156,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#5"
    id="use52905"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_track__border"
@@ -39166,7 +39166,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#6"
    id="use52908"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_minor__border"
@@ -39176,7 +39176,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#7"
    id="use52911"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_major__border"
@@ -39186,7 +39186,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#8"
    id="use52914"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_main_link__border"
@@ -39196,7 +39196,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#9"
    id="use52917"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_main__border"
@@ -39206,7 +39206,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#10"
    id="use52920"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_motorway_link__border"
@@ -39216,7 +39216,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#11"
    id="use52923"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_motorway__border"
@@ -39226,7 +39226,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#12"
    id="use52926"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="water_stream"
@@ -39236,11 +39236,11 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#13"
    id="use52929"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="water_river1"
-   style="stroke-linecap:round;stroke:#202d3d;stroke-width:2"
+   style="stroke-linecap:round;stroke:#797b82;stroke-width:2"
    inkscape:groupmode="layer"
    inkscape:label="water river">
 			<use
@@ -39250,13 +39250,13 @@ Time: 01/26/2026 16:05:01
 		</g>
 		<g
    id="railway_rail"
-   style="stroke:#202d3d;stroke-width:3"
+   style="stroke:#797b82;stroke-width:3"
    inkscape:groupmode="layer"
    inkscape:label="railway rail">
 			<use
    xlink:href="#15"
    id="use52935"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="railway_rail1"
@@ -39266,7 +39266,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#16"
    id="use52938"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_foot"
@@ -39276,7 +39276,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#17"
    id="use52941"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_track"
@@ -39286,7 +39286,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#6"
    id="use52944"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_minor"
@@ -39296,7 +39296,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#18"
    id="use52947"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_minor1"
@@ -39306,7 +39306,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#7"
    id="use52950"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_major"
@@ -39316,7 +39316,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#8"
    id="use52953"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_main_link"
@@ -39326,7 +39326,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#9"
    id="use52956"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_main1"
@@ -39336,7 +39336,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#10"
    id="use52959"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_motorway_link"
@@ -39346,7 +39346,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#11"
    id="use52962"
-   style="fill:#202d3d;fill-opacity:0.1;stroke:#202d3d;stroke-opacity:0.1" />
+   style="fill:#797b82;fill-opacity:0.1;stroke:#797b82;stroke-opacity:0.1" />
 		</g>
 		<g
    id="highway_motorway"
@@ -39356,137 +39356,137 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#12"
    id="use52965"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_other"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building other">
 			<use
    xlink:href="#19"
    id="use52968"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_kindergarten"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use kindergarten">
 			<use
    xlink:href="#20"
    id="use52971"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_retail"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use retail">
 			<use
    xlink:href="#21"
    id="use52974"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_public"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use public">
 			<use
    xlink:href="#22"
    id="use52977"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_industrial"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use industrial">
 			<use
    xlink:href="#23"
    id="use52980"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_barn"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use barn">
 			<use
    xlink:href="#24"
    id="use52983"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_residential"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use residential">
 			<use
    xlink:href="#25"
    id="use52986"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_minor__border1"
-   style="stroke:#202d3d;stroke-width:5.1"
+   style="stroke:#797b82;stroke-width:5.1"
    inkscape:groupmode="layer"
    inkscape:label="highway minor (border)">
 			<use
    xlink:href="#26"
    id="use52989"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_major__border1"
-   style="stroke:#202d3d;stroke-width:8.5"
+   style="stroke:#797b82;stroke-width:8.5"
    inkscape:groupmode="layer"
    inkscape:label="highway major (border)">
 			<use
    xlink:href="#27"
    id="use52992"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_main__border1"
-   style="stroke:#202d3d;stroke-width:9.35"
+   style="stroke:#797b82;stroke-width:9.35"
    inkscape:groupmode="layer"
    inkscape:label="highway main (border)">
 			<use
    xlink:href="#28"
    id="use52995"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_motorway_link__border1"
-   style="stroke:#202d3d;stroke-width:8.5"
+   style="stroke:#797b82;stroke-width:8.5"
    inkscape:groupmode="layer"
    inkscape:label="highway motorway link (border)">
 			<use
    xlink:href="#29"
    id="use52998"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_motorway__border1"
-   style="stroke:#202d3d;stroke-width:11.9"
+   style="stroke:#797b82;stroke-width:11.9"
    inkscape:groupmode="layer"
    inkscape:label="highway motorway (border)">
 			<use
    xlink:href="#30"
    id="use53001"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="railway_rail11"
-   style="stroke:#202d3d;stroke-width:3"
+   style="stroke:#797b82;stroke-width:3"
    inkscape:groupmode="layer"
    inkscape:label="railway rail">
 			<use
    xlink:href="#31"
    id="use53004"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="railway_rail111"
@@ -39496,7 +39496,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#32"
    id="use53007"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_minor11"
@@ -39506,7 +39506,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#26"
    id="use53010"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_major1"
@@ -39516,7 +39516,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#27"
    id="use53013"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_main11"
@@ -39526,7 +39526,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#28"
    id="use53016"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_motorway_link1"
@@ -39536,7 +39536,7 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#29"
    id="use53019"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="highway_motorway1"
@@ -39546,37 +39546,37 @@ Time: 01/26/2026 16:05:01
 			<use
    xlink:href="#30"
    id="use53022"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_other1"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building other">
 			<use
    xlink:href="#33"
    id="use53025"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 		<g
    id="building_use_roof"
-   style="stroke-linecap:square;stroke:#202d3d;stroke-width:0.5"
+   style="stroke-linecap:square;stroke:#797b82;stroke-width:0.5"
    inkscape:groupmode="layer"
    inkscape:label="building use roof">
 			<use
    xlink:href="#34"
    id="use53028"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 		</g>
 	</g>
 	<g
    id="Layer_799"
-   style="stroke:#202d3d;font-family:Verdana;font-weight:bold;fill-opacity:0.9"
+   style="stroke:#797b82;font-family:Verdana;font-weight:bold;fill-opacity:0.9"
    inkscape:groupmode="layer"
    inkscape:label="Layer 799">
 		<g
    id="water_river__text"
-   style="font-size:5.5px;fill:#202d3d"
+   style="font-size:5.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="water river (text)">
 			<g
@@ -39603,7 +39603,7 @@ Time: 01/26/2026 16:05:01
 		</g>
 		<g
    id="highway_track__text"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway track (text)">
 			<g
@@ -39613,26 +39613,26 @@ Time: 01/26/2026 16:05:01
    transform="translate(6625.61,1893.68) rotate(331)"
    y="1.36"
    id="text53043"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">طريق</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">طريق</text>
 				<text
    transform="translate(6632.87,1889.47) rotate(326)"
    y="1.36"
    id="text53045"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9"> حراش</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9"> حراش</text>
 			</g>
 		</g>
 		<g
    id="highway_major__text"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway major (text)">
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(4876.81,1298.63) rotate(350)"
    y="1.36"
    id="text53050">Boulevard Totah Mohamed Rabah</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(4822.93,1297.26) rotate(34)"
    y="1.36"
    id="text53052">Rue Soulafa</text>
@@ -39643,27 +39643,27 @@ Time: 01/26/2026 16:05:01
    transform="translate(5088.62,766.08) rotate(13)"
    y="1.36"
    id="text53054"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Rue d</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Rue d</text>
 				<text
    transform="translate(5098.47,768.39) rotate(5)"
    y="1.36"
    id="text53056"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">u 5 </text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">u 5 </text>
 				<text
    transform="translate(5105.12,769.05) rotate(14)"
    y="1.36"
    id="text53058"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Ju</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Ju</text>
 				<text
    transform="translate(5108.26,769.88) rotate(21)"
    y="1.36"
    id="text53060"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ille</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ille</text>
 				<text
    transform="translate(5113.06,771.64) rotate(13)"
    y="1.36"
    id="text53062"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">t</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">t</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39672,33 +39672,33 @@ Time: 01/26/2026 16:05:01
    transform="translate(6778.44,1978.08) rotate(29)"
    y="1.36"
    id="text53066"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">شارع طو</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">شارع طو</text>
 				<text
    transform="translate(6790.44,1984.72) rotate(30)"
    y="1.36"
    id="text53068"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">طاح موسى</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">طاح موسى</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(6783.93,1958.76) rotate(28) scale(0.82,1)"
    y="1.36"
    id="text53072">شارع بوملاح رابح</text>
 		</g>
 		<g
    id="highway_main__text"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway main (text)">
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(4848.83,1526.8) rotate(432) scale(0.83,1)"
    y="1.36"
    id="text53075">جسر واد يسر</text>
 		</g>
 		<g
    id="highway_main__text1"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway main (text)">
 			<g
@@ -39708,12 +39708,12 @@ Time: 01/26/2026 16:05:01
    transform="translate(4879.58,1316.13) rotate(441)"
    y="1.36"
    id="text53078"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Rue de</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Rue de</text>
 				<text
    transform="translate(4881.56,1328.25) rotate(443)"
    y="1.36"
    id="text53080"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9"> la gare</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9"> la gare</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39722,15 +39722,15 @@ Time: 01/26/2026 16:05:01
    transform="translate(5160.65,1429.68) rotate(412)"
    y="1.36"
    id="text53084"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Rue</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Rue</text>
 				<text
    transform="translate(5164.82,1435.03) rotate(413)"
    y="1.36"
    id="text53086"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9"> 17 Octobre</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9"> 17 Octobre</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(5053.42,1097.87) rotate(280)"
    y="1.36"
    id="text53090">Rue du 5 Juillet</text>
@@ -39741,32 +39741,32 @@ Time: 01/26/2026 16:05:01
    transform="translate(6712.08,1918.19) rotate(312)"
    y="1.36"
    id="text53092"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ش</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ش</text>
 				<text
    transform="translate(6713.48,1916.62) rotate(308)"
    y="1.36"
    id="text53094"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ار</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ار</text>
 				<text
    transform="translate(6716.02,1913.27) rotate(304)"
    y="1.36"
    id="text53096"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ع</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ع</text>
 				<text
    transform="translate(6717.19,1911.53) rotate(299)"
    y="1.36"
    id="text53098"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9"> بوملاح ر</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9"> بوملاح ر</text>
 				<text
    transform="translate(6725.35,1896.69) rotate(298)"
    y="1.36"
    id="text53100"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ابح</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ابح</text>
 			</g>
 		</g>
 		<g
    id="highway_motorway_link__text"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway motorway link (text)">
 			<g
@@ -39776,27 +39776,27 @@ Time: 01/26/2026 16:05:01
    transform="translate(5289.7,1541.17) rotate(317)"
    y="1.36"
    id="text53105"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Bran</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Bran</text>
 				<text
    transform="translate(5295.66,1535.56) rotate(319)"
    y="1.36"
    id="text53107"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">cheme</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">cheme</text>
 				<text
    transform="translate(5304.59,1527.74) rotate(317)"
    y="1.36"
    id="text53109"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nt A1</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nt A1</text>
 				<text
    transform="translate(5311.37,1521.36) rotate(313)"
    y="1.36"
    id="text53111"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-Lakh</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-Lakh</text>
 				<text
    transform="translate(5317.89,1514.34) rotate(310)"
    y="1.36"
    id="text53113"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">daria</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">daria</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39805,42 +39805,42 @@ Time: 01/26/2026 16:05:01
    transform="translate(5270.58,1592.7) rotate(441)"
    y="1.36"
    id="text53117"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">B</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">B</text>
 				<text
    transform="translate(5271.23,1595.01) rotate(429)"
    y="1.36"
    id="text53119"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ran</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ran</text>
 				<text
    transform="translate(5273.42,1600.34) rotate(418)"
    y="1.36"
    id="text53121"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">chem</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">chem</text>
 				<text
    transform="translate(5278.91,1608.3) rotate(407)"
    y="1.36"
    id="text53123"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">en</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">en</text>
 				<text
    transform="translate(5282.12,1611.23) rotate(393)"
    y="1.36"
    id="text53125"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">t A</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">t A</text>
 				<text
    transform="translate(5286.22,1613.84) rotate(385)"
    y="1.36"
    id="text53127"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">1-La</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">1-La</text>
 				<text
    transform="translate(5293.13,1616.96) rotate(369)"
    y="1.36"
    id="text53129"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">khda</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">khda</text>
 				<text
    transform="translate(5301.61,1618.06) rotate(356)"
    y="1.36"
    id="text53131"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ria</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ria</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39849,37 +39849,37 @@ Time: 01/26/2026 16:05:01
    transform="translate(5198.89,1629.57) rotate(28)"
    y="1.36"
    id="text53135"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Bra</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Bra</text>
 				<text
    transform="translate(5204.12,1632.46) rotate(35)"
    y="1.36"
    id="text53137"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nch</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nch</text>
 				<text
    transform="translate(5209.25,1636.17) rotate(47)"
    y="1.36"
    id="text53139"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">eme</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">eme</text>
 				<text
    transform="translate(5214.5,1641.85) rotate(55)"
    y="1.36"
    id="text53141"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nt A1</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nt A1</text>
 				<text
    transform="translate(5219.54,1649.64) rotate(69)"
    y="1.36"
    id="text53143"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-Lakh</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-Lakh</text>
 				<text
    transform="translate(5223.19,1658.5) rotate(63)"
    y="1.36"
    id="text53145"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">dari</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">dari</text>
 				<text
    transform="translate(5226.32,1664.47) rotate(48)"
    y="1.36"
    id="text53147"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">a</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">a</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39888,37 +39888,37 @@ Time: 01/26/2026 16:05:01
    transform="translate(5266.29,1580.57) rotate(291)"
    y="1.36"
    id="text53151"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">B</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">B</text>
 				<text
    transform="translate(5266.95,1578.25) rotate(284)"
    y="1.36"
    id="text53153"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ran</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ran</text>
 				<text
    transform="translate(5268.47,1572.68) rotate(287)"
    y="1.36"
    id="text53155"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">che</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">che</text>
 				<text
    transform="translate(5270.41,1566.69) rotate(289)"
    y="1.36"
    id="text53157"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">me</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">me</text>
 				<text
    transform="translate(5272.29,1561.45) rotate(298)"
    y="1.36"
    id="text53159"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nt A1</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nt A1</text>
 				<text
    transform="translate(5276.74,1553.28) rotate(303)"
    y="1.36"
    id="text53161"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-Lak</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-Lak</text>
 				<text
    transform="translate(5280.81,1547.12) rotate(310)"
    y="1.36"
    id="text53163"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">hdaria</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">hdaria</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39927,47 +39927,47 @@ Time: 01/26/2026 16:05:01
    transform="translate(4489.21,1295.88) rotate(45)"
    y="1.36"
    id="text53167"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Bra</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Bra</text>
 				<text
    transform="translate(4493.33,1300.22) rotate(53)"
    y="1.36"
    id="text53169"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nch</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nch</text>
 				<text
    transform="translate(4497.02,1305.35) rotate(61)"
    y="1.36"
    id="text53171"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">em</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">em</text>
 				<text
    transform="translate(4499.33,1310.39) rotate(70)"
    y="1.36"
    id="text53173"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">e</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">e</text>
 				<text
    transform="translate(4499.99,1312.46) rotate(79)"
    y="1.36"
    id="text53175"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nt </text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nt </text>
 				<text
    transform="translate(4500.86,1317.06) rotate(87)"
    y="1.36"
    id="text53177"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">A1-N</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">A1-N</text>
 				<text
    transform="translate(4501.17,1325.55) rotate(93)"
    y="1.36"
    id="text53179"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">5-N</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">5-N</text>
 				<text
    transform="translate(4500.75,1331.66) rotate(96)"
    y="1.36"
    id="text53181"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">2</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">2</text>
 				<text
    transform="translate(4500.51,1333.89) rotate(97)"
    y="1.36"
    id="text53183"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">9</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">9</text>
 			</g>
 			<g
    style="stroke:none"
@@ -39976,27 +39976,27 @@ Time: 01/26/2026 16:05:01
    transform="translate(4532.01,1280.71) rotate(39)"
    y="1.36"
    id="text53187"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Branchement </text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Branchement </text>
 				<text
    transform="translate(4551.17,1296.36) rotate(46)"
    y="1.36"
    id="text53189"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">A1</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">A1</text>
 				<text
    transform="translate(4554.29,1299.75) rotate(57)"
    y="1.36"
    id="text53191"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-N5</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-N5</text>
 				<text
    transform="translate(4557.38,1305.01) rotate(72)"
    y="1.36"
    id="text53193"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-N</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-N</text>
 				<text
    transform="translate(4558.35,1308.76) rotate(82)"
    y="1.36"
    id="text53195"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">29</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">29</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40005,37 +40005,37 @@ Time: 01/26/2026 16:05:01
    transform="translate(4535.53,1284.49) rotate(44)"
    y="1.36"
    id="text53199"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Brancheme</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Brancheme</text>
 				<text
    transform="translate(4549.9,1298.45) rotate(56)"
    y="1.36"
    id="text53201"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">nt </text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">nt </text>
 				<text
    transform="translate(4552.47,1302.36) rotate(74)"
    y="1.36"
    id="text53203"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">A1</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">A1</text>
 				<text
    transform="translate(4553.51,1306.84) rotate(88)"
    y="1.36"
    id="text53205"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-N</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-N</text>
 				<text
    transform="translate(4553.23,1310.7) rotate(98)"
    y="1.36"
    id="text53207"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">5</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">5</text>
 				<text
    transform="translate(4552.77,1312.88) rotate(115)"
    y="1.36"
    id="text53209"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-N</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-N</text>
 				<text
    transform="translate(4551.08,1316.36) rotate(126)"
    y="1.36"
    id="text53211"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">29</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">29</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40044,72 +40044,72 @@ Time: 01/26/2026 16:05:01
    transform="translate(4505.09,1349.92) rotate(231)"
    y="1.36"
    id="text53215"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">B</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">B</text>
 				<text
    transform="translate(4503.83,1347.88) rotate(246)"
    y="1.36"
    id="text53217"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ra</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ra</text>
 				<text
    transform="translate(4502.6,1344.54) rotate(252)"
    y="1.36"
    id="text53219"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">n</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">n</text>
 				<text
    transform="translate(4502.2,1342.39) rotate(267)"
    y="1.36"
    id="text53221"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ch</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ch</text>
 				<text
    transform="translate(4502.56,1338.31) rotate(282)"
    y="1.36"
    id="text53223"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">e</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">e</text>
 				<text
    transform="translate(4503.19,1336.24) rotate(292)"
    y="1.36"
    id="text53225"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">m</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">m</text>
 				<text
    transform="translate(4504.69,1333.21) rotate(304)"
    y="1.36"
    id="text53227"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">en</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">en</text>
 				<text
    transform="translate(4507.57,1329.99) rotate(321)"
    y="1.36"
    id="text53229"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">t</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">t</text>
 				<text
    transform="translate(4508.65,1329.15) rotate(334)"
    y="1.36"
    id="text53231"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9"> A1</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9"> A1</text>
 				<text
    transform="translate(4513.97,1327.17) rotate(350)"
    y="1.36"
    id="text53233"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-N</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-N</text>
 				<text
    transform="translate(4517.83,1327.17) rotate(5)"
    y="1.36"
    id="text53235"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">5-</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">5-</text>
 				<text
    transform="translate(4521.28,1327.6) rotate(23)"
    y="1.36"
    id="text53237"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">N2</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">N2</text>
 				<text
    transform="translate(4525.57,1329.83) rotate(38)"
    y="1.36"
    id="text53239"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">9</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">9</text>
 			</g>
 		</g>
 		<g
    id="highway_motorway__text"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway motorway (text)">
 			<g
@@ -40119,22 +40119,22 @@ Time: 01/26/2026 16:05:01
    transform="translate(3696.82,679.97) rotate(375)"
    y="1.36"
    id="text53244"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Auto</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Auto</text>
 				<text
    transform="translate(3704.61,682.12) rotate(381)"
    y="1.36"
    id="text53246"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">route </text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">route </text>
 				<text
    transform="translate(3714.32,685.94) rotate(384)"
    y="1.36"
    id="text53248"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Est-Ou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Est-Ou</text>
 				<text
    transform="translate(3724.89,690.74) rotate(388)"
    y="1.36"
    id="text53250"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">est</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">est</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40143,27 +40143,27 @@ Time: 01/26/2026 16:05:01
    transform="translate(3695.79,682.76) rotate(15)"
    y="1.36"
    id="text53254"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Auto</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Auto</text>
 				<text
    transform="translate(3703.58,684.92) rotate(20)"
    y="1.36"
    id="text53256"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">route </text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">route </text>
 				<text
    transform="translate(3713.33,688.6) rotate(24)"
    y="1.36"
    id="text53258"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Est-Ou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Est-Ou</text>
 				<text
    transform="translate(3723.85,693.54) rotate(28)"
    y="1.36"
    id="text53260"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">est</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">est</text>
 			</g>
 		</g>
 		<g
    id="highway_motorway__text1"
-   style="font-size:3.5px;fill:#202d3d"
+   style="font-size:3.5px;fill:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="highway motorway (text)">
 			<g
@@ -40173,17 +40173,17 @@ Time: 01/26/2026 16:05:01
    transform="translate(3522.37,594.93) rotate(409)"
    y="1.36"
    id="text53265"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autorou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autorou</text>
 				<text
    transform="translate(3531.43,605.41) rotate(406)"
    y="1.36"
    id="text53267"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">te Est-</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">te Est-</text>
 				<text
    transform="translate(3539.21,613.61) rotate(407)"
    y="1.36"
    id="text53269"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Ouest</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40192,15 +40192,15 @@ Time: 01/26/2026 16:05:01
    transform="translate(3841,765.01) rotate(383)"
    y="1.36"
    id="text53273"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autoroute Est-</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autoroute Est-</text>
 				<text
    transform="translate(3864.21,774.75) rotate(385)"
    y="1.36"
    id="text53275"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Ouest</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(4489.73,1287.87) rotate(401)"
    y="1.36"
    id="text53279">Autoroute Est-Ouest</text>
@@ -40211,20 +40211,20 @@ Time: 01/26/2026 16:05:01
    transform="translate(4735.67,1547.23) rotate(394)"
    y="1.36"
    id="text53281"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autorou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autorou</text>
 				<text
    transform="translate(4747.23,1554.88) rotate(387)"
    y="1.36"
    id="text53283"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">te Est-Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">te Est-Ouest</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(4917.42,1587.3) rotate(355)"
    y="1.36"
    id="text53287">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(5152,1606.89) rotate(379)"
    y="1.36"
    id="text53289">Autoroute Est-Ouest</text>
@@ -40235,35 +40235,35 @@ Time: 01/26/2026 16:05:01
    transform="translate(5370.95,1580.72) rotate(322)"
    y="1.36"
    id="text53291"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Au</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Au</text>
 				<text
    transform="translate(5374.57,1577.91) rotate(321)"
    y="1.36"
    id="text53293"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">toroute Est-Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">toroute Est-Ouest</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(5844.81,1616.93) rotate(370)"
    y="1.36"
    id="text53297">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(6369.42,1790.49) rotate(387)"
    y="1.36"
    id="text53299">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(6530.55,1870.93) rotate(387)"
    y="1.36"
    id="text53301">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(6528.38,1874.74) rotate(27)"
    y="1.36"
    id="text53303">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(6367.54,1794.86) rotate(26)"
    y="1.36"
    id="text53305">Autoroute Est-Ouest</text>
@@ -40274,17 +40274,17 @@ Time: 01/26/2026 16:05:01
    transform="translate(6709.79,1980.64) rotate(405)"
    y="1.36"
    id="text53307"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autor</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autor</text>
 				<text
    transform="translate(6716.55,1987.35) rotate(406)"
    y="1.36"
    id="text53309"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">oute Est-O</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">oute Est-O</text>
 				<text
    transform="translate(6729.21,2000.71) rotate(408)"
    y="1.36"
    id="text53311"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">uest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">uest</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40293,30 +40293,30 @@ Time: 01/26/2026 16:05:01
    transform="translate(6791.23,2102.64) rotate(65)"
    y="1.36"
    id="text53315"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Aut</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Aut</text>
 				<text
    transform="translate(6793.7,2108.05) rotate(66)"
    y="1.36"
    id="text53317"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">oroute Est-Ou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">oroute Est-Ou</text>
 				<text
    transform="translate(6803.44,2130.19) rotate(65)"
    y="1.36"
    id="text53319"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">est</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">est</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(5835.12,1619.79) rotate(10)"
    y="1.36"
    id="text53323">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(5373.56,1583.75) rotate(321)"
    y="1.36"
    id="text53325">Autoroute Est-Ouest</text>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(5148.77,1610.57) rotate(20)"
    y="1.36"
    id="text53327">Autoroute Est-Ouest</text>
@@ -40327,17 +40327,17 @@ Time: 01/26/2026 16:05:01
    transform="translate(4859.62,1593.15) rotate(4)"
    y="1.36"
    id="text53329"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autor</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autor</text>
 				<text
    transform="translate(4869.11,1593.81) rotate(1)"
    y="1.36"
    id="text53331"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">oute Est-O</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">oute Est-O</text>
 				<text
    transform="translate(4887.52,1594.14) rotate(355)"
    y="1.36"
    id="text53333"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">uest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">uest</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40346,20 +40346,20 @@ Time: 01/26/2026 16:05:01
    transform="translate(4747.89,1560.3) rotate(28)"
    y="1.36"
    id="text53337"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autoro</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autoro</text>
 				<text
    transform="translate(4758.2,1565.74) rotate(26)"
    y="1.36"
    id="text53339"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">ute Est-</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">ute Est-</text>
 				<text
    transform="translate(4770.38,1571.58) rotate(22)"
    y="1.36"
    id="text53341"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Ouest</text>
 			</g>
 			<text
-   style="stroke:#202d3d;fill:#202d3d;fill-opacity:0.9;stroke-opacity:0.9"
+   style="stroke:#797b82;fill:#797b82;fill-opacity:0.9;stroke-opacity:0.9"
    transform="translate(4543.55,1345.13) rotate(49)"
    y="1.36"
    id="text53345">Autoroute Est-Ouest</text>
@@ -40370,17 +40370,17 @@ Time: 01/26/2026 16:05:01
    transform="translate(4259.02,913.32) rotate(378)"
    y="1.36"
    id="text53347"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autorout</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autorout</text>
 				<text
    transform="translate(4273.5,918.01) rotate(383)"
    y="1.36"
    id="text53349"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">e Est-Oue</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">e Est-Oue</text>
 				<text
    transform="translate(4289.25,924.63) rotate(385)"
    y="1.36"
    id="text53351"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">st</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">st</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40389,17 +40389,17 @@ Time: 01/26/2026 16:05:01
    transform="translate(4130.41,910.32) rotate(354)"
    y="1.36"
    id="text53355"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autorou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autorou</text>
 				<text
    transform="translate(4144.19,908.88) rotate(353)"
    y="1.36"
    id="text53357"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">te Est</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">te Est</text>
 				<text
    transform="translate(4154.15,907.6) rotate(352)"
    y="1.36"
    id="text53359"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-Ouest</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40408,17 +40408,17 @@ Time: 01/26/2026 16:05:01
    transform="translate(3887.13,790.35) rotate(29)"
    y="1.36"
    id="text53363"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autorou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autorou</text>
 				<text
    transform="translate(3899.21,797.14) rotate(33)"
    y="1.36"
    id="text53365"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">te Est-Oue</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">te Est-Oue</text>
 				<text
    transform="translate(3914.69,807.15) rotate(34)"
    y="1.36"
    id="text53367"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">st</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">st</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40427,22 +40427,22 @@ Time: 01/26/2026 16:05:01
    transform="translate(4082.27,912.1) rotate(7)"
    y="1.36"
    id="text53371"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autorou</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autorou</text>
 				<text
    transform="translate(4096.04,913.72) rotate(6)"
    y="1.36"
    id="text53373"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">te Est</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">te Est</text>
 				<text
    transform="translate(4106.03,914.75)"
    y="1.36"
    id="text53375"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">-Oues</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">-Oues</text>
 				<text
    transform="translate(4116.25,914.7) rotate(357)"
    y="1.36"
    id="text53377"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">t</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">t</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40451,12 +40451,12 @@ Time: 01/26/2026 16:05:01
    transform="translate(4256.18,915.45) rotate(18)"
    y="1.36"
    id="text53381"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autoroute</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autoroute</text>
 				<text
    transform="translate(4272.64,921.03) rotate(26)"
    y="1.36"
    id="text53383"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9"> Est-Ouest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9"> Est-Ouest</text>
 			</g>
 			<g
    style="stroke:none"
@@ -40465,18 +40465,18 @@ Time: 01/26/2026 16:05:01
    transform="translate(3524.56,602.89) rotate(47)"
    y="1.36"
    id="text53387"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">Autoroute Est-O</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">Autoroute Est-O</text>
 				<text
    transform="translate(3543.6,623.33) rotate(46)"
    y="1.36"
    id="text53389"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9">uest</text>
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9">uest</text>
 			</g>
 		</g>
 	</g>
 	<g
    id="Labels"
-   style="stroke:#202d3d;font-family:Verdana;font-size:4px"
+   style="stroke:#797b82;font-family:Verdana;font-size:4px"
    inkscape:groupmode="layer"
    inkscape:label="Labels">
 		<g
@@ -40484,19 +40484,19 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use kindergarten (text)">
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53397">
 				<use
    xlink:href="#symbol_text_8"
    id="use53395" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53401">
 				<use
    xlink:href="#symbol_text_8"
    id="use53399"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 		</g>
 		<g
@@ -40504,19 +40504,19 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use retail (text)">
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53406">
 				<use
    xlink:href="#symbol_text_9"
    id="use53404" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53410">
 				<use
    xlink:href="#symbol_text_9"
    id="use53408"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 		</g>
 		<g
@@ -40524,19 +40524,19 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use roof (text)">
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53415">
 				<use
    xlink:href="#symbol_text_10"
    id="use53413" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53419">
 				<use
    xlink:href="#symbol_text_10"
    id="use53417"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 		</g>
 		<g
@@ -40544,79 +40544,79 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use industrial (text)">
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53424">
 				<use
    xlink:href="#symbol_text_11"
    id="use53422" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53428">
 				<use
    xlink:href="#symbol_text_11"
    id="use53426"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53432">
 				<use
    xlink:href="#symbol_text_12"
    id="use53430" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53436">
 				<use
    xlink:href="#symbol_text_12"
    id="use53434"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53440">
 				<use
    xlink:href="#symbol_text_13"
    id="use53438" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53444">
 				<use
    xlink:href="#symbol_text_13"
    id="use53442"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53448">
 				<use
    xlink:href="#symbol_text_14"
    id="use53446" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53452">
 				<use
    xlink:href="#symbol_text_14"
    id="use53450"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53456">
 				<use
    xlink:href="#symbol_text_15"
    id="use53454" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53460">
 				<use
    xlink:href="#symbol_text_15"
    id="use53458"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 		</g>
 		<g
@@ -40624,19 +40624,19 @@ Time: 01/26/2026 16:05:01
    inkscape:groupmode="layer"
    inkscape:label="building use barn (text)">
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53465">
 				<use
    xlink:href="#symbol_text_16"
    id="use53463" />
 			</g>
 			<g
-   style="fill:#202d3d;stroke:none;fill-opacity:0.9"
+   style="fill:#797b82;stroke:none;fill-opacity:0.9"
    id="g53469">
 				<use
    xlink:href="#symbol_text_16"
    id="use53467"
-   style="fill:#202d3d;fill-opacity:0.8;stroke:#202d3d;stroke-opacity:0.9" />
+   style="fill:#797b82;fill-opacity:0.8;stroke:#797b82;stroke-opacity:0.9" />
 			</g>
 		</g>
 	</g>
@@ -40655,7 +40655,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 3147.91 h10323.76"
    id="path53473" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53477">
 				<use
    xlink:href="#symbol_text_17"
@@ -40675,7 +40675,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 2906.33 h10323.76"
    id="path53483" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53487">
 				<use
    xlink:href="#symbol_text_18"
@@ -40695,7 +40695,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 2664.73 h10323.76"
    id="path53493" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53497">
 				<use
    xlink:href="#symbol_text_19"
@@ -40715,7 +40715,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 2423.11 h10323.76"
    id="path53503" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53507">
 				<use
    xlink:href="#symbol_text_20"
@@ -40735,7 +40735,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 2181.45 h10323.76"
    id="path53513" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53517">
 				<use
    xlink:href="#symbol_text_21"
@@ -40755,7 +40755,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 1939.77 h10323.76"
    id="path53523" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53527">
 				<use
    xlink:href="#symbol_text_22"
@@ -40775,7 +40775,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 1698.07 h10323.76"
    id="path53533" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53537">
 				<use
    xlink:href="#symbol_text_23"
@@ -40795,7 +40795,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 1456.34 h10323.76"
    id="path53543" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53547">
 				<use
    xlink:href="#symbol_text_24"
@@ -40815,7 +40815,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 1214.58 h10323.76"
    id="path53553" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53557">
 				<use
    xlink:href="#symbol_text_25"
@@ -40835,7 +40835,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 972.8 h10323.76"
    id="path53563" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53567">
 				<use
    xlink:href="#symbol_text_26"
@@ -40855,7 +40855,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 730.99 h10323.76"
    id="path53573" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53577">
 				<use
    xlink:href="#symbol_text_27"
@@ -40875,7 +40875,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 489.16 h10323.76"
    id="path53583" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53587">
 				<use
    xlink:href="#symbol_text_28"
@@ -40895,7 +40895,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 247.3 h10323.76"
    id="path53593" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53597">
 				<use
    xlink:href="#symbol_text_29"
@@ -40915,7 +40915,7 @@ Time: 01/26/2026 16:05:01
    d="M-0.5 5.41 h10323.76"
    id="path53603" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53607">
 				<use
    xlink:href="#symbol_text_30"
@@ -40941,7 +40941,7 @@ Time: 01/26/2026 16:05:01
    d="M-69.35 3046.54 v-3047.04"
    id="path53614" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53618">
 				<use
    xlink:href="#symbol_text_31"
@@ -40961,7 +40961,7 @@ Time: 01/26/2026 16:05:01
    d="M124.83 3046.54 v-3047.04"
    id="path53624" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53628">
 				<use
    xlink:href="#symbol_text_32"
@@ -40981,7 +40981,7 @@ Time: 01/26/2026 16:05:01
    d="M319.01 3046.54 v-3047.04"
    id="path53634" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53638">
 				<use
    xlink:href="#symbol_text_33"
@@ -41001,7 +41001,7 @@ Time: 01/26/2026 16:05:01
    d="M513.19 3046.54 v-3047.04"
    id="path53644" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53648">
 				<use
    xlink:href="#symbol_text_34"
@@ -41021,7 +41021,7 @@ Time: 01/26/2026 16:05:01
    d="M707.37 3046.54 v-3047.04"
    id="path53654" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53658">
 				<use
    xlink:href="#symbol_text_35"
@@ -41041,7 +41041,7 @@ Time: 01/26/2026 16:05:01
    d="M901.55 3046.54 v-3047.04"
    id="path53664" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53668">
 				<use
    xlink:href="#symbol_text_36"
@@ -41061,7 +41061,7 @@ Time: 01/26/2026 16:05:01
    d="M1095.73 3046.54 v-3047.04"
    id="path53674" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53678">
 				<use
    xlink:href="#symbol_text_37"
@@ -41081,7 +41081,7 @@ Time: 01/26/2026 16:05:01
    d="M1289.91 3046.54 v-3047.04"
    id="path53684" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53688">
 				<use
    xlink:href="#symbol_text_38"
@@ -41101,7 +41101,7 @@ Time: 01/26/2026 16:05:01
    d="M1484.09 3046.54 v-3047.04"
    id="path53694" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53698">
 				<use
    xlink:href="#symbol_text_39"
@@ -41121,7 +41121,7 @@ Time: 01/26/2026 16:05:01
    d="M1678.28 3046.54 v-3047.04"
    id="path53704" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53708">
 				<use
    xlink:href="#symbol_text_40"
@@ -41141,7 +41141,7 @@ Time: 01/26/2026 16:05:01
    d="M1872.46 3046.54 v-3047.04"
    id="path53714" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53718">
 				<use
    xlink:href="#symbol_text_41"
@@ -41161,7 +41161,7 @@ Time: 01/26/2026 16:05:01
    d="M2066.64 3046.54 v-3047.04"
    id="path53724" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53728">
 				<use
    xlink:href="#symbol_text_42"
@@ -41181,7 +41181,7 @@ Time: 01/26/2026 16:05:01
    d="M2260.82 3046.54 v-3047.04"
    id="path53734" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53738">
 				<use
    xlink:href="#symbol_text_43"
@@ -41201,7 +41201,7 @@ Time: 01/26/2026 16:05:01
    d="M2455 3046.54 v-3047.04"
    id="path53744" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53748">
 				<use
    xlink:href="#symbol_text_44"
@@ -41221,7 +41221,7 @@ Time: 01/26/2026 16:05:01
    d="M2649.18 3046.54 v-3047.04"
    id="path53754" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53758">
 				<use
    xlink:href="#symbol_text_45"
@@ -41241,7 +41241,7 @@ Time: 01/26/2026 16:05:01
    d="M2843.36 3046.54 v-3047.04"
    id="path53764" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53768">
 				<use
    xlink:href="#symbol_text_46"
@@ -41261,7 +41261,7 @@ Time: 01/26/2026 16:05:01
    d="M3037.54 3046.54 v-3047.04"
    id="path53774" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53778">
 				<use
    xlink:href="#symbol_text_47"
@@ -41281,7 +41281,7 @@ Time: 01/26/2026 16:05:01
    d="M3231.72 3046.54 v-3047.04"
    id="path53784" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53788">
 				<use
    xlink:href="#symbol_text_48"
@@ -41301,7 +41301,7 @@ Time: 01/26/2026 16:05:01
    d="M3425.9 3046.54 v-3047.04"
    id="path53794" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53798">
 				<use
    xlink:href="#symbol_text_49"
@@ -41321,7 +41321,7 @@ Time: 01/26/2026 16:05:01
    d="M3620.08 3046.54 v-3047.04"
    id="path53804" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53808">
 				<use
    xlink:href="#symbol_text_50"
@@ -41341,7 +41341,7 @@ Time: 01/26/2026 16:05:01
    d="M3814.26 3046.54 v-3047.04"
    id="path53814" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53818">
 				<use
    xlink:href="#symbol_text_51"
@@ -41361,7 +41361,7 @@ Time: 01/26/2026 16:05:01
    d="M4008.44 3046.54 v-3047.04"
    id="path53824" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53828">
 				<use
    xlink:href="#symbol_text_52"
@@ -41381,7 +41381,7 @@ Time: 01/26/2026 16:05:01
    d="M4202.63 3046.54 v-3047.04"
    id="path53834" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53838">
 				<use
    xlink:href="#symbol_text_53"
@@ -41401,7 +41401,7 @@ Time: 01/26/2026 16:05:01
    d="M4396.81 3046.54 v-3047.04"
    id="path53844" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53848">
 				<use
    xlink:href="#symbol_text_54"
@@ -41421,7 +41421,7 @@ Time: 01/26/2026 16:05:01
    d="M4590.99 3046.54 v-3047.04"
    id="path53854" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53858">
 				<use
    xlink:href="#symbol_text_55"
@@ -41441,7 +41441,7 @@ Time: 01/26/2026 16:05:01
    d="M4785.17 3046.54 v-3047.04"
    id="path53864" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53868">
 				<use
    xlink:href="#symbol_text_56"
@@ -41461,7 +41461,7 @@ Time: 01/26/2026 16:05:01
    d="M4979.35 3046.54 v-3047.04"
    id="path53874" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53878">
 				<use
    xlink:href="#symbol_text_57"
@@ -41481,7 +41481,7 @@ Time: 01/26/2026 16:05:01
    d="M5173.53 3046.54 v-3047.04"
    id="path53884" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53888">
 				<use
    xlink:href="#symbol_text_58"
@@ -41501,7 +41501,7 @@ Time: 01/26/2026 16:05:01
    d="M5367.71 3046.54 v-3047.04"
    id="path53894" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53898">
 				<use
    xlink:href="#symbol_text_59"
@@ -41521,7 +41521,7 @@ Time: 01/26/2026 16:05:01
    d="M5561.89 3046.54 v-3047.04"
    id="path53904" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53908">
 				<use
    xlink:href="#symbol_text_60"
@@ -41541,7 +41541,7 @@ Time: 01/26/2026 16:05:01
    d="M5756.07 3046.54 v-3047.04"
    id="path53914" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53918">
 				<use
    xlink:href="#symbol_text_61"
@@ -41561,7 +41561,7 @@ Time: 01/26/2026 16:05:01
    d="M5950.25 3046.54 v-3047.04"
    id="path53924" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53928">
 				<use
    xlink:href="#symbol_text_62"
@@ -41581,7 +41581,7 @@ Time: 01/26/2026 16:05:01
    d="M6144.43 3046.54 v-3047.04"
    id="path53934" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53938">
 				<use
    xlink:href="#symbol_text_63"
@@ -41601,7 +41601,7 @@ Time: 01/26/2026 16:05:01
    d="M6338.61 3046.54 v-3047.04"
    id="path53944" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53948">
 				<use
    xlink:href="#symbol_text_64"
@@ -41621,7 +41621,7 @@ Time: 01/26/2026 16:05:01
    d="M6532.79 3046.54 v-3047.04"
    id="path53954" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53958">
 				<use
    xlink:href="#symbol_text_65"
@@ -41641,7 +41641,7 @@ Time: 01/26/2026 16:05:01
    d="M6726.97 3046.54 v-3047.04"
    id="path53964" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53968">
 				<use
    xlink:href="#symbol_text_66"
@@ -41661,7 +41661,7 @@ Time: 01/26/2026 16:05:01
    d="M6921.16 3046.54 v-3047.04"
    id="path53974" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53978">
 				<use
    xlink:href="#symbol_text_67"
@@ -41681,7 +41681,7 @@ Time: 01/26/2026 16:05:01
    d="M7115.34 3046.54 v-3047.04"
    id="path53984" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53988">
 				<use
    xlink:href="#symbol_text_68"
@@ -41701,7 +41701,7 @@ Time: 01/26/2026 16:05:01
    d="M7309.52 3046.54 v-3047.04"
    id="path53994" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g53998">
 				<use
    xlink:href="#symbol_text_69"
@@ -41721,7 +41721,7 @@ Time: 01/26/2026 16:05:01
    d="M7503.7 3046.54 v-3047.04"
    id="path54004" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54008">
 				<use
    xlink:href="#symbol_text_70"
@@ -41741,7 +41741,7 @@ Time: 01/26/2026 16:05:01
    d="M7697.88 3046.54 v-3047.04"
    id="path54014" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54018">
 				<use
    xlink:href="#symbol_text_71"
@@ -41761,7 +41761,7 @@ Time: 01/26/2026 16:05:01
    d="M7892.06 3046.54 v-3047.04"
    id="path54024" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54028">
 				<use
    xlink:href="#symbol_text_72"
@@ -41781,7 +41781,7 @@ Time: 01/26/2026 16:05:01
    d="M8086.24 3046.54 v-3047.04"
    id="path54034" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54038">
 				<use
    xlink:href="#symbol_text_73"
@@ -41801,7 +41801,7 @@ Time: 01/26/2026 16:05:01
    d="M8280.42 3046.54 v-3047.04"
    id="path54044" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54048">
 				<use
    xlink:href="#symbol_text_74"
@@ -41821,7 +41821,7 @@ Time: 01/26/2026 16:05:01
    d="M8474.6 3046.54 v-3047.04"
    id="path54054" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54058">
 				<use
    xlink:href="#symbol_text_75"
@@ -41841,7 +41841,7 @@ Time: 01/26/2026 16:05:01
    d="M8668.78 3046.54 v-3047.04"
    id="path54064" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54068">
 				<use
    xlink:href="#symbol_text_76"
@@ -41861,7 +41861,7 @@ Time: 01/26/2026 16:05:01
    d="M8862.96 3046.54 v-3047.04"
    id="path54074" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54078">
 				<use
    xlink:href="#symbol_text_77"
@@ -41881,7 +41881,7 @@ Time: 01/26/2026 16:05:01
    d="M9057.14 3046.54 v-3047.04"
    id="path54084" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54088">
 				<use
    xlink:href="#symbol_text_78"
@@ -41901,7 +41901,7 @@ Time: 01/26/2026 16:05:01
    d="M9251.32 3046.54 v-3047.04"
    id="path54094" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54098">
 				<use
    xlink:href="#symbol_text_79"
@@ -41921,7 +41921,7 @@ Time: 01/26/2026 16:05:01
    d="M9445.5 3046.54 v-3047.04"
    id="path54104" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54108">
 				<use
    xlink:href="#symbol_text_80"
@@ -41941,7 +41941,7 @@ Time: 01/26/2026 16:05:01
    d="M9639.69 3046.54 v-3047.04"
    id="path54114" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54118">
 				<use
    xlink:href="#symbol_text_81"
@@ -41961,7 +41961,7 @@ Time: 01/26/2026 16:05:01
    d="M9833.87 3046.54 v-3047.04"
    id="path54124" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54128">
 				<use
    xlink:href="#symbol_text_82"
@@ -41981,7 +41981,7 @@ Time: 01/26/2026 16:05:01
    d="M10028.05 3046.54 v-3047.04"
    id="path54134" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54138">
 				<use
    xlink:href="#symbol_text_83"
@@ -42001,7 +42001,7 @@ Time: 01/26/2026 16:05:01
    d="M10222.23 3046.54 v-3047.04"
    id="path54144" />
 			<g
-   style="stroke-width:2;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:2;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54148">
 				<use
    xlink:href="#symbol_text_84"
@@ -42019,11 +42019,11 @@ Time: 01/26/2026 16:05:01
 		</g>
 		<g
    id="map_scale__text"
-   style="stroke:#202d3d;font-family:Tahoma;font-size:12px;font-weight:bold;fill:none"
+   style="stroke:#797b82;font-family:Tahoma;font-size:12px;font-weight:bold;fill:none"
    inkscape:groupmode="layer"
    inkscape:label="map scale (text)">
 			<g
-   style="stroke-width:3;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:3;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54157">
 				<use
    xlink:href="#symbol_text_85"
@@ -42039,7 +42039,7 @@ Time: 01/26/2026 16:05:01
    style="fill:none;fill-opacity:0.9" />
 			</g>
 			<g
-   style="stroke-width:3;stroke:#202d3d;fill:none;stroke-opacity:0.9"
+   style="stroke-width:3;stroke:#797b82;fill:none;stroke-opacity:0.9"
    id="g54165">
 				<use
    xlink:href="#symbol_text_86"
@@ -42057,7 +42057,7 @@ Time: 01/26/2026 16:05:01
 		</g>
 		<g
    id="map_scale__indicator"
-   style="fill:none;stroke:#202d3d"
+   style="fill:none;stroke:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="map scale (indicator)">
 			<rect
@@ -42065,12 +42065,12 @@ Time: 01/26/2026 16:05:01
    y="3019.04"
    width="27.09"
    height="7"
-   style="stroke:#202d3d;fill:none;fill-opacity:0.9"
+   style="stroke:#797b82;fill:none;fill-opacity:0.9"
    id="rect54172" />
 		</g>
 		<g
    id="map_scale__indicator1"
-   style="fill:none;stroke:#202d3d"
+   style="fill:none;stroke:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="map scale (indicator)">
 			<rect
@@ -42078,12 +42078,12 @@ Time: 01/26/2026 16:05:01
    y="3019.04"
    width="27.09"
    height="7"
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    id="rect54175" />
 		</g>
 		<g
    id="map_scale__indicator11"
-   style="fill:none;stroke:#202d3d"
+   style="fill:none;stroke:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="map scale (indicator)">
 			<rect
@@ -42091,12 +42091,12 @@ Time: 01/26/2026 16:05:01
    y="3019.04"
    width="27.09"
    height="7"
-   style="stroke:#202d3d;fill:none;fill-opacity:0.9"
+   style="stroke:#797b82;fill:none;fill-opacity:0.9"
    id="rect54178" />
 		</g>
 		<g
    id="map_scale__indicator111"
-   style="fill:none;stroke:#202d3d"
+   style="fill:none;stroke:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="map scale (indicator)">
 			<rect
@@ -42104,12 +42104,12 @@ Time: 01/26/2026 16:05:01
    y="3019.04"
    width="27.09"
    height="7"
-   style="stroke:#202d3d;fill:none"
+   style="stroke:#797b82;fill:none"
    id="rect54181" />
 		</g>
 		<g
    id="map_scale__indicator1111"
-   style="fill:none;stroke:#202d3d"
+   style="fill:none;stroke:#797b82"
    inkscape:groupmode="layer"
    inkscape:label="map scale (indicator)">
 			<rect
@@ -42117,16 +42117,16 @@ Time: 01/26/2026 16:05:01
    y="3019.04"
    width="27.09"
    height="7"
-   style="stroke:#202d3d;fill:none;fill-opacity:0.9"
+   style="stroke:#797b82;fill:none;fill-opacity:0.9"
    id="rect54184" />
 		</g>
 		<g
    id="floating_label"
-   style="stroke:#202d3d;font-family:Tahoma;font-size:14px;font-weight:bold;fill:none"
+   style="stroke:#797b82;font-family:Tahoma;font-size:14px;font-weight:bold;fill:none"
    inkscape:groupmode="layer"
    inkscape:label="floating label">
 			<g
-   style="stroke-width:3;stroke:#202d3d;fill:none;stroke-opacity:0.95"
+   style="stroke-width:3;stroke:#797b82;fill:none;stroke-opacity:0.95"
    id="g54189">
 				<use
    xlink:href="#symbol_text_87"
@@ -42145,7 +42145,7 @@ Time: 01/26/2026 16:05:01
 	</g>
 	<g
    id="Map_frame"
-   style="stroke:black;stroke-width:2;fill:none"
+   style="stroke:#fefefe;stroke-width:2;fill:none"
    inkscape:groupmode="layer"
    inkscape:label="Map frame">
 		<rect
