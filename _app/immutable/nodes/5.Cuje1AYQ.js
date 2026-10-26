@@ -3,8 +3,8 @@ import{$ as e,A as t,C as n,E as r,F as i,G as a,I as o,J as s,L as c,M as l,R a
 				`,1),je=b(`
 				<!>
 			`,1),Me=b(`<div class="flex flex-col"><div class="flex flex-row justify-end gap-2 pt-8 pr-8"><div class="flex items-center justify-center rounded-full [&amp;>svg]:stroke-yellow-500"></div> <div class="flex items-center justify-center rounded-full [&amp;>svg]:stroke-red-500"></div></div></div> <pre class="pl-10">
-        <code class="flex flex-col gap-y-5 overflow-hidden">
-          <div class="block flex max-w-[93%] border border-amber-50">
+        <code class="flex flex-col gap-y-5">
+          <div class="block flex h-auto max-w-[93%] border border-amber-50">
               <span class="inline text-green-500"></span>
               <!>
           </div>
