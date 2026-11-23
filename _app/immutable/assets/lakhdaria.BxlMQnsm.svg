@@ -9,6 +9,7 @@
    clip-path="url(#MapClipRectangle)"
    style="overflow:hidden;text-rendering:optimizeLegibility"
    id="svg54200"
+   preserveAspectRatio="xMidYMid meet"
    sodipodi:docname="lakhdaria.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -35,8 +36,6 @@
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="highway_motorway" />
-	<title
-   id="title27123">Map Generated Using Maperitive (http://maperitive.net)</title>
 	<desc
    id="desc27125">Map Generator: Maperitive v2.4.3 by Igor Brejc
 Time: 01/26/2026 16:05:01
